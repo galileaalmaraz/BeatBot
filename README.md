@@ -8,7 +8,7 @@ Welcome to BeatBot, an interactive application designed to classify music genres
 4. How It Works
 5. Installation
 6. Usage
-7. Embedding a Demo Video
+7. [Demo Video](https://github.com/galileaalmaraz/BeatBot#demo)
 8. Acknowledgments
 
 ## Introduction
