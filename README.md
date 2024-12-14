@@ -2,7 +2,7 @@
 Welcome to BeatBot, an interactive application designed to classify music genres and provide song statistics using machine learning techniques and an intuitive user interface.
 
 # Table of Contents
-1. Introduction
+1. Introduction [](https://github.com/galileaalmaraz/BeatBot#introduction)
 2. Features
 3. Technologies Used
 4. How It Works
