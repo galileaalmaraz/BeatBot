@@ -72,8 +72,8 @@ To embed a demo video (e.g., a YouTube video):
 
 ## Demo
 Watch the demo of BeatBot in action:
+
 [![BeatBot Demo](https://img.youtube.com/vi/xpWDVIAS-lU/0.jpg)](https://www.youtube.com/watch?v=xpWDVIAS-lU)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R2GLW-s5fV8/0.jpg)](https://www.youtube.com/watch?v=R2GLW-s5fV8)
 
 
 ### Acknowledgments
